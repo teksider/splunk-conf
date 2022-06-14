@@ -5,4 +5,3 @@
 * https://github.com/MattUebel/git-good-splunk-shcdeployer
 * https://github.com/MattUebel/git-good-splunk-indexmanager
 * https://github.com/MattUebel/git-good-splunk-deploymentserver
-* 
