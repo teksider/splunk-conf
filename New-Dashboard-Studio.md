@@ -1,4 +1,4 @@
-# new dashboard studio
+# New dashboard studio
 
 ## Notes:
 * dashboard can contain markdown!!!
