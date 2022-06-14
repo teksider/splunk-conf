@@ -2,4 +2,4 @@
 
 ## Notes:
 * masking in 9.0 does not allow for live data preview
-* preview confit will show props/transforms
+* preview config will show props/transforms
