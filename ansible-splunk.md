@@ -10,4 +10,4 @@
 * [automation-readiness](https://github.com/innovationfleet/cca_for_splunk/blob/main/automation_readiness.md)
 * https://github.com/innovationfleet/cca_for_splunk/wiki/Project-presentation
 * https://github.com/innovationfleet/cca_for_splunk/blob/main/README.md
-* 
+* https://www.splunk.com/pdfs/technical-briefs/splunk-validated-architectures.pdf
