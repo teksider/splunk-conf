@@ -3,6 +3,5 @@
 ## Notes:
 * fluff piece on version 9.0
 * end to end
-* mostly spluunk cloud based solution
+* mostly splunk cloud based solution
 * xomi app - from heinekin beer
-* 
